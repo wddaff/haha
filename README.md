@@ -11,4 +11,4 @@ Netlify vs GitHub Pages
 
 https://headlesscms.org/
 
-
+typora
